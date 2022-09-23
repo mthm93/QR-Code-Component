@@ -13,7 +13,6 @@
 ### Screenshot
 
 ![](design/mobile-design.jpg)
-![](design/desktop-design.jpg)
 
 ## Meu Processo
 
