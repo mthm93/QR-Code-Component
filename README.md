@@ -5,7 +5,6 @@
 - [Meu Processo](#meu-processo)
   - [Feito com](#feito-com)
   - [O que aprendi](#o-que-aprendi)
-  - [Continued development](#continued-development)
 - [Autor](#autor)
 
 ## Overview
